@@ -1,0 +1,6 @@
+Available Similarity Metrics in Pinecone
+
+    Cosine Similarity (Recommended for text-based embeddings )
+        Measures the angle between two vectors.
+        Works well for sentence embeddings (like BERT).
+        Value range: -1 (opposite) to 1 (identical).
